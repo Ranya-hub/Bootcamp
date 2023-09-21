@@ -3,7 +3,7 @@ prize = 1200
 
 print(prize * student)
 
-appel = 3.40
+appel = 3.45
 
 druiven = 2.45
 
